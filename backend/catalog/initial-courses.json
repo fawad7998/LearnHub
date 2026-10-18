@@ -1,0 +1,862 @@
+[
+  {
+    "title": "React: from components to complete apps",
+    "description": "A complete Hindi video series covering React components, state, routing and practical projects. Follow all 78 original lessons in order. This is the creator’s original React series; some installation steps and library versions differ from current tools.",
+    "category": "Development",
+    "cover": "react",
+    "price": 0,
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "sourceAuthor": "CodeWithHarry",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt",
+    "previewVideoUrl": "https://www.youtube.com/watch?v=-mJFZp84TIY",
+    "outcomes": [
+      "Build interfaces from reusable components",
+      "Work with props, state and hooks",
+      "Explore routing and application state",
+      "Practice through complete projects"
+    ],
+    "lessons": [
+      {
+        "title": "Introduction to React Js + Installation | Complete React Course in Hindi #1",
+        "videoUrl": "https://www.youtube.com/watch?v=-mJFZp84TIY"
+      },
+      {
+        "title": "Creating our first react app using create-react-app | Complete React Course in Hindi #2",
+        "videoUrl": "https://www.youtube.com/watch?v=hnVOvvbQrwA"
+      },
+      {
+        "title": "JavaScript Refresher | Complete React Course in Hindi #3",
+        "videoUrl": "https://www.youtube.com/watch?v=kFe-RRaOy48"
+      },
+      {
+        "title": "Understanding JSX | Complete React Course in Hindi #4",
+        "videoUrl": "https://www.youtube.com/watch?v=JvC7aA24m4Q"
+      },
+      {
+        "title": "Project 1: Setup + Adding Bootstrap to React | Complete React Course in Hindi #5",
+        "videoUrl": "https://www.youtube.com/watch?v=wa0IVAIqbo0"
+      },
+      {
+        "title": "Understanding Props and PropTypes in React | Complete React Course in Hindi #6",
+        "videoUrl": "https://www.youtube.com/watch?v=xvm3X1oyTL8"
+      },
+      {
+        "title": "Understanding State & Handling Events in React | Complete React Course in Hindi #7",
+        "videoUrl": "https://www.youtube.com/watch?v=leBpCqU8wdg"
+      },
+      {
+        "title": "Adding more Logic to TextUtils | Complete React Course in Hindi #8",
+        "videoUrl": "https://www.youtube.com/watch?v=7BsjAdjx2Z0"
+      },
+      {
+        "title": "Exercise 1: Enhancing TextUtils | Complete React Course in Hindi #9",
+        "videoUrl": "https://www.youtube.com/watch?v=KislX1yzZOQ"
+      },
+      {
+        "title": "Creating \"Enable Dark Mode\" Button Using useState Hook  | Complete React Course in Hindi #10",
+        "videoUrl": "https://www.youtube.com/watch?v=Sx2y4TjRZ9g"
+      },
+      {
+        "title": "Exercise 1: Solutions + Shoutouts | Complete React Course in Hindi #11",
+        "videoUrl": "https://www.youtube.com/watch?v=9pqQZqcgkeg"
+      },
+      {
+        "title": "Improving Dark Mode & Refactoring App Component | Complete React Course in Hindi #12",
+        "videoUrl": "https://www.youtube.com/watch?v=vEzt66n2LZY"
+      },
+      {
+        "title": "Adding + Auto Dismissing Alert Messages | Complete React Course in Hindi #13",
+        "videoUrl": "https://www.youtube.com/watch?v=n_KtBVxBTb4"
+      },
+      {
+        "title": "Exercise 2: Adding Custom Color Theme to TextUtils | Complete React Course in Hindi #14",
+        "videoUrl": "https://www.youtube.com/watch?v=hWo5-vkJsj0"
+      },
+      {
+        "title": "Changing title dynamically & adding favicons to TextUtils | Complete React Course in Hindi #15",
+        "videoUrl": "https://www.youtube.com/watch?v=8eSQ1o6zir0"
+      },
+      {
+        "title": "React Router Setup + Usage | Complete React Course in Hindi #16",
+        "videoUrl": "https://www.youtube.com/watch?v=WNU1BEZIjxg"
+      },
+      {
+        "title": "[Free] Building + Hosting React App For free on Github Pages | Complete React Course in Hindi #17",
+        "videoUrl": "https://www.youtube.com/watch?v=Fi75tq9JikI"
+      },
+      {
+        "title": "Purchasing a Domain + Hosting TextUtils on a VPS | Complete React Course in Hindi #18",
+        "videoUrl": "https://www.youtube.com/watch?v=YYVY1bPHaWE"
+      },
+      {
+        "title": "Fixing Issues & Wrapping up TextUtils | Complete React Course in Hindi #19",
+        "videoUrl": "https://www.youtube.com/watch?v=kEvfVw5Sq5c"
+      },
+      {
+        "title": "Exercise 2: Solutions + Shoutouts | Complete React Course in Hindi #20",
+        "videoUrl": "https://www.youtube.com/watch?v=Ghp1Mi43dxQ"
+      },
+      {
+        "title": "Fixing few more Textutils Issues | Complete React Course in Hindi #21",
+        "videoUrl": "https://www.youtube.com/watch?v=tBaCrmZ_e80"
+      },
+      {
+        "title": "Project 2 Setup + Introduction to Class based components | Complete React Course in Hindi #22",
+        "videoUrl": "https://www.youtube.com/watch?v=x9p-4QGh-OI"
+      },
+      {
+        "title": "Component Structure of our NewsMonkey React App | Complete React Course in Hindi #23",
+        "videoUrl": "https://www.youtube.com/watch?v=9xjuIe4KM-4"
+      },
+      {
+        "title": "Fetching API Key from News API | Complete React Course in Hindi #24",
+        "videoUrl": "https://www.youtube.com/watch?v=fSFlvm56JwM"
+      },
+      {
+        "title": "Understanding state in class based components  | Complete React Course in Hindi #25",
+        "videoUrl": "https://www.youtube.com/watch?v=OmoRSF1Ta6A"
+      },
+      {
+        "title": "Looping through an array in JSX to display NewsItems from state | Complete React Course in Hindi #26",
+        "videoUrl": "https://www.youtube.com/watch?v=ANKGfdi8Ki4"
+      },
+      {
+        "title": "Using Fetch API in React to populate NewsItems | Complete React Course in Hindi #27",
+        "videoUrl": "https://www.youtube.com/watch?v=cIqgQn-XBIQ"
+      },
+      {
+        "title": "Adding Previous & Next Buttons to populate NewsItems | Complete React Course in Hindi #28",
+        "videoUrl": "https://www.youtube.com/watch?v=FOjrXXdiCMs"
+      },
+      {
+        "title": "Adding loading spinner & variable pageSize to NewsMonkey | Complete React Course in Hindi #29",
+        "videoUrl": "https://www.youtube.com/watch?v=sUGwamqnJnY"
+      },
+      {
+        "title": "Adding Categories & propTypes to NewsMonkey React App | Complete React Course in Hindi #30",
+        "videoUrl": "https://www.youtube.com/watch?v=L3zCEwGpK9I"
+      },
+      {
+        "title": "Fetching News category wise in NewsMonkey React App | Complete React Course in Hindi #31",
+        "videoUrl": "https://www.youtube.com/watch?v=y9ns0Cpp2do"
+      },
+      {
+        "title": "Adding time, author and news source to News React App | Complete React Course in Hindi #32",
+        "videoUrl": "https://www.youtube.com/watch?v=tEm62tTwZE0"
+      },
+      {
+        "title": "Refactoring News component to use the same function  | Complete React Course in Hindi #33",
+        "videoUrl": "https://www.youtube.com/watch?v=ZJMd2mN0sbs"
+      },
+      {
+        "title": "React Component Lifecycle & Lifecycle methods  | Complete React Course in Hindi #34",
+        "videoUrl": "https://www.youtube.com/watch?v=abjeWy4sZiU"
+      },
+      {
+        "title": "Adding Infinite Scroll to NewsMonkey | Complete React Course in Hindi #35",
+        "videoUrl": "https://www.youtube.com/watch?v=yLox5lhwaEU"
+      },
+      {
+        "title": "Adding a top loading bar to NewsMonkey | Complete React Course in Hindi #36",
+        "videoUrl": "https://www.youtube.com/watch?v=j_Gk58cOB2A"
+      },
+      {
+        "title": "Hiding API Key by Adding Custom Environment Variables | Complete React Course in Hindi #37",
+        "videoUrl": "https://www.youtube.com/watch?v=fg_Rc5cBAK8"
+      },
+      {
+        "title": "Introduction to React Hooks | Complete React Course in Hindi #38",
+        "videoUrl": "https://www.youtube.com/watch?v=esrFnNV5Btc"
+      },
+      {
+        "title": "Changing Class based NewsMonkey components to Functional based | Complete React Course in Hindi #39",
+        "videoUrl": "https://www.youtube.com/watch?v=aSSVGdVk6fo"
+      },
+      {
+        "title": "Sticky Navbar & NewsMonkey bug fixes | Complete React Course in Hindi #40",
+        "videoUrl": "https://www.youtube.com/watch?v=7lrneLoa72s"
+      },
+      {
+        "title": "Introduction to MERN stack | Complete React Course in Hindi #41",
+        "videoUrl": "https://www.youtube.com/watch?v=YhJ-lPiCfyc"
+      },
+      {
+        "title": "Project 3: iNotebook backend and React frontend setup | Complete React Course in Hindi #42",
+        "videoUrl": "https://www.youtube.com/watch?v=kZbaAVJHdZw"
+      },
+      {
+        "title": "iNotebook db & Express Server Setup | Complete React Course in Hindi #43",
+        "videoUrl": "https://www.youtube.com/watch?v=jWIeK3ueOm8"
+      },
+      {
+        "title": "Creating Routes & Schema for Storing Notes & Users | Complete React Course in Hindi #44",
+        "videoUrl": "https://www.youtube.com/watch?v=HpszyPglBtQ"
+      },
+      {
+        "title": "Storing Data into the Database Using Mongoose Model | Complete React Course in Hindi #45",
+        "videoUrl": "https://www.youtube.com/watch?v=weIrv6WbIec"
+      },
+      {
+        "title": "Adding Data Validation Using express-validator | Complete React Course in Hindi #46",
+        "videoUrl": "https://www.youtube.com/watch?v=N4GHLaCSXUg"
+      },
+      {
+        "title": "Creating ThunderClient Collections to Manage Requests | Complete React Course in Hindi #47",
+        "videoUrl": "https://www.youtube.com/watch?v=vqCirjK61HI"
+      },
+      {
+        "title": "Understanding Password Hashing, Salt & Pepper | Complete React Course in Hindi #48",
+        "videoUrl": "https://www.youtube.com/watch?v=inEhzp3nD0M"
+      },
+      {
+        "title": "Hashing Passwords using bcryptjs in NodeJs | Complete React Course in Hindi #49",
+        "videoUrl": "https://www.youtube.com/watch?v=nSIo0kHZcic"
+      },
+      {
+        "title": "Creating Login Endpoint & sending auth token| Complete React Course in Hindi #50",
+        "videoUrl": "https://www.youtube.com/watch?v=j9fcNuNx-DA"
+      },
+      {
+        "title": "Creating a middleware to decode user from a JWT | Complete React Course in Hindi #51",
+        "videoUrl": "https://www.youtube.com/watch?v=qY0PZ-z61EQ"
+      },
+      {
+        "title": "Fetching all notes & Adding a Note | Complete React Course in Hindi #52",
+        "videoUrl": "https://www.youtube.com/watch?v=nXKUJipczn0"
+      },
+      {
+        "title": "Updating an existing Note | Complete React Course in Hindi #53",
+        "videoUrl": "https://www.youtube.com/watch?v=2rwfG4H2FCk"
+      },
+      {
+        "title": "Endpoint for deleting a Note | Complete React Course in Hindi #54",
+        "videoUrl": "https://www.youtube.com/watch?v=vdfCuvV9WaE"
+      },
+      {
+        "title": "iNotebook React Project Setup | Complete React Course in Hindi #55",
+        "videoUrl": "https://www.youtube.com/watch?v=hfjQLssL0hs"
+      },
+      {
+        "title": "Creating Navbar and Routes | Complete React Course in Hindi #56",
+        "videoUrl": "https://www.youtube.com/watch?v=x1Zs1kPqyxQ"
+      },
+      {
+        "title": "Introduction to React Context API | Complete React Course in Hindi #57",
+        "videoUrl": "https://www.youtube.com/watch?v=3u9GZQN7ZUQ"
+      },
+      {
+        "title": "useContext hook: Using React Context API | Complete React Course in Hindi #58",
+        "videoUrl": "https://www.youtube.com/watch?v=coM0JK6o3mo"
+      },
+      {
+        "title": "useLocation Hook in React | Complete React Course in Hindi #59",
+        "videoUrl": "https://www.youtube.com/watch?v=fqIZnugmDhY"
+      },
+      {
+        "title": "iNotebook: Fetching Notes from Context | Complete React Course in Hindi #60",
+        "videoUrl": "https://www.youtube.com/watch?v=94BdnDVHrP0"
+      },
+      {
+        "title": "iNotebook: Adding NoteItem in a Separate Note component | Complete React Course in Hindi #61",
+        "videoUrl": "https://www.youtube.com/watch?v=GsVXwTeMn4o"
+      },
+      {
+        "title": "Adding font awesome icons to iNotebook | Complete React Course in Hindi #62",
+        "videoUrl": "https://www.youtube.com/watch?v=pH37pK7kalA"
+      },
+      {
+        "title": "Adding AddNote component to iNotebook | Complete React Course in Hindi #63",
+        "videoUrl": "https://www.youtube.com/watch?v=EseqvMqulAQ"
+      },
+      {
+        "title": "Adding \"delete note\" functionality to iNotebook | Complete React Course in Hindi #64",
+        "videoUrl": "https://www.youtube.com/watch?v=MQpI6pc6J6s"
+      },
+      {
+        "title": "Adding \"fetch notes\" functionality to iNotebook | Complete React Course in Hindi #65",
+        "videoUrl": "https://www.youtube.com/watch?v=x-mYMGf7P6M"
+      },
+      {
+        "title": "Adding a Modal for Editing Notes | Complete React Course in Hindi #66",
+        "videoUrl": "https://www.youtube.com/watch?v=J5hGX5_XZDk"
+      },
+      {
+        "title": "Updating Notes on edit in the UI using React | Complete React Course in Hindi #67",
+        "videoUrl": "https://www.youtube.com/watch?v=lcJXF2Svo-c"
+      },
+      {
+        "title": "Adding Frontend Validation + Few Fixes in iNotebook | Complete React Course in Hindi #68",
+        "videoUrl": "https://www.youtube.com/watch?v=W8SmVTL-ToY"
+      },
+      {
+        "title": "Adding Login Component to iNotebook | Complete React Course in Hindi #69",
+        "videoUrl": "https://www.youtube.com/watch?v=S0nmMn2n82k"
+      },
+      {
+        "title": "Adding SignUp Component to iNotebook | Complete React Course in Hindi #70",
+        "videoUrl": "https://www.youtube.com/watch?v=rw5NZB4P_0Q"
+      },
+      {
+        "title": "Adding Alerts to Login, Signup & Notes Component of iNotebook | Complete React Course in Hindi #71",
+        "videoUrl": "https://www.youtube.com/watch?v=1mH7SPeFwbg"
+      },
+      {
+        "title": "Fetching User Specific Notes in iNotebook | Complete React Course in Hindi #72",
+        "videoUrl": "https://www.youtube.com/watch?v=MP-_pkakBao"
+      },
+      {
+        "title": "Introduction to Redux | Complete React Course in Hindi #73",
+        "videoUrl": "https://www.youtube.com/watch?v=JZQWKYjfZlQ"
+      },
+      {
+        "title": "Setting up a React Application for Redux | Complete React Course in Hindi #74",
+        "videoUrl": "https://www.youtube.com/watch?v=hFyLMMj8Ncg"
+      },
+      {
+        "title": "Creating a Reducer & Action Creator in Redux | Complete React Course in Hindi #75",
+        "videoUrl": "https://www.youtube.com/watch?v=jGCW8ZUrcqE"
+      },
+      {
+        "title": "Creating a Redux Store | Complete React Course in Hindi #76",
+        "videoUrl": "https://www.youtube.com/watch?v=-uqTWF0GfxA"
+      },
+      {
+        "title": "Accessing State in Redux | Complete React Course in Hindi #77",
+        "videoUrl": "https://www.youtube.com/watch?v=TQGmTwrp_60"
+      },
+      {
+        "title": "Updating state from a different component in Redux | Complete React Course in Hindi #78",
+        "videoUrl": "https://www.youtube.com/watch?v=UX6Kf48qCvs"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript: the complete learning journey",
+    "description": "Learn JavaScript in Hindi through the complete 103-video playlist. Start with the language foundations, then explore the DOM, asynchronous code, Node.js and project work. Videos are presented in the creator’s original order.",
+    "category": "Development",
+    "cover": "javascript",
+    "price": 0,
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "sourceAuthor": "CodeWithHarry",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR",
+    "previewVideoUrl": "https://www.youtube.com/watch?v=ER9SspLe4Hg",
+    "outcomes": [
+      "Use variables, functions, arrays and objects",
+      "Make interactive pages with the DOM",
+      "Understand promises and asynchronous code",
+      "Build small projects with JavaScript and Node.js"
+    ],
+    "lessons": [
+      {
+        "title": "Introduction to JavaScript + Setup | JavaScript Tutorial in Hindi #1",
+        "videoUrl": "https://www.youtube.com/watch?v=ER9SspLe4Hg"
+      },
+      {
+        "title": "Variables in JavaScript | JavaScript Tutorial in Hindi #2",
+        "videoUrl": "https://www.youtube.com/watch?v=Q4p8vRQX8uY"
+      },
+      {
+        "title": "const, let and var in JavaScript | JavaScript Tutorial in Hindi #3",
+        "videoUrl": "https://www.youtube.com/watch?v=Icev9Oxf0WA"
+      },
+      {
+        "title": "Primitives and Objects in JavaScript | JavaScript Tutorial in Hindi #4",
+        "videoUrl": "https://www.youtube.com/watch?v=qpU3WIqRz9I"
+      },
+      {
+        "title": "JavaScript  Chapter 1 - Practice Set | JavaScript Tutorial in Hindi #5",
+        "videoUrl": "https://www.youtube.com/watch?v=vA-AAeqkpxM"
+      },
+      {
+        "title": "JavaScript Operators and Expressions | JavaScript Tutorial in Hindi #6",
+        "videoUrl": "https://www.youtube.com/watch?v=lsV8JQgSW1s"
+      },
+      {
+        "title": "Conditional expressions in JavaScript | JavaScript Tutorial in Hindi #7",
+        "videoUrl": "https://www.youtube.com/watch?v=s5Lu4QTjeL0"
+      },
+      {
+        "title": "JavaScript Chapter 2 - Practice Set on Operators and Conditionals | JavaScript Tutorial in Hindi #8",
+        "videoUrl": "https://www.youtube.com/watch?v=W77qmqrhCcA"
+      },
+      {
+        "title": "For Loops in JavaScript | JavaScript Tutorial in Hindi #9",
+        "videoUrl": "https://www.youtube.com/watch?v=XKyyM1VWtUE"
+      },
+      {
+        "title": "While Loops in JavaScript | JavaScript Tutorial in Hindi #10",
+        "videoUrl": "https://www.youtube.com/watch?v=drEjyBSu33w"
+      },
+      {
+        "title": "Functions in JavaScript | JavaScript Tutorial in Hindi #11",
+        "videoUrl": "https://www.youtube.com/watch?v=a_gwOwkbhZ0"
+      },
+      {
+        "title": "JavaScript Chapter 3 - Practice Set on Loops and Functions | JavaScript Tutorial in Hindi #12",
+        "videoUrl": "https://www.youtube.com/watch?v=ZAOipfPnb3s"
+      },
+      {
+        "title": "Introduction to Strings | JavaScript Tutorial in Hindi #13",
+        "videoUrl": "https://www.youtube.com/watch?v=Yafji9PB1lM"
+      },
+      {
+        "title": "JavaScript String Methods | JavaScript Tutorial in Hindi #14",
+        "videoUrl": "https://www.youtube.com/watch?v=8yg4RUEnaIk"
+      },
+      {
+        "title": "JavaScript Chapter 4 - Practice Set on Strings | JavaScript Tutorial in Hindi #15",
+        "videoUrl": "https://www.youtube.com/watch?v=Wj3wGP1g5z8"
+      },
+      {
+        "title": "Introduction to Arrays | JavaScript Tutorial in Hindi #16",
+        "videoUrl": "https://www.youtube.com/watch?v=a_Bz5ciBHQ0"
+      },
+      {
+        "title": "JavaScript Array Methods | JavaScript Tutorial in Hindi #17",
+        "videoUrl": "https://www.youtube.com/watch?v=BLIrBThPTXc"
+      },
+      {
+        "title": "Some More JavaScript Array Methods | JavaScript Tutorial in Hindi #18",
+        "videoUrl": "https://www.youtube.com/watch?v=QxA-KB2lKgk"
+      },
+      {
+        "title": "Using Loops With Arrays in JavaScript | JavaScript Tutorial in Hindi #19",
+        "videoUrl": "https://www.youtube.com/watch?v=YWyr7Nug2oc"
+      },
+      {
+        "title": "Map, Filter & Reduce in JavaScript | JavaScript Tutorial in Hindi #20",
+        "videoUrl": "https://www.youtube.com/watch?v=bAUMuuRH99o"
+      },
+      {
+        "title": "JavaScript Chapter 5 - Practice Set on Arrays | JavaScript Tutorial in Hindi #21",
+        "videoUrl": "https://www.youtube.com/watch?v=Yeic3j6uli0"
+      },
+      {
+        "title": "Exercise 1 - Guess the Number | JavaScript Tutorial in Hindi #22",
+        "videoUrl": "https://www.youtube.com/watch?v=DmjyrPwPg2g"
+      },
+      {
+        "title": "JavaScript in the Browser | JavaScript Tutorial in Hindi #23",
+        "videoUrl": "https://www.youtube.com/watch?v=ImFeTcWCsR0"
+      },
+      {
+        "title": "JavaScript Script Tag | JavaScript Tutorial in Hindi #24",
+        "videoUrl": "https://www.youtube.com/watch?v=hS2vw0qVt0c"
+      },
+      {
+        "title": "JavaScript Console Object | JavaScript Tutorial in Hindi #25",
+        "videoUrl": "https://www.youtube.com/watch?v=1WNtGvrLisg"
+      },
+      {
+        "title": "JavaScript Exercise 1: Solution & Shoutouts | JavaScript Tutorial in Hindi #26",
+        "videoUrl": "https://www.youtube.com/watch?v=Fc1g7CL4nwI"
+      },
+      {
+        "title": "JavaScript alert, prompt & confirm | JavaScript Tutorial in Hindi #27",
+        "videoUrl": "https://www.youtube.com/watch?v=540NIdeKW3I"
+      },
+      {
+        "title": "DOM, BOM & Window Object | JavaScript Tutorial in Hindi #28",
+        "videoUrl": "https://www.youtube.com/watch?v=xOCzjgjedRc"
+      },
+      {
+        "title": "JavaScript Chapter 6 - Practice Set | JavaScript Tutorial in Hindi #29",
+        "videoUrl": "https://www.youtube.com/watch?v=HzWhsTl10mw"
+      },
+      {
+        "title": "Exercise 2 - Snake, Water and Gun| JavaScript Tutorial in Hindi #30",
+        "videoUrl": "https://www.youtube.com/watch?v=EsDLdN7V6mw"
+      },
+      {
+        "title": "Walking the DOM | JavaScript Tutorial in Hindi #31",
+        "videoUrl": "https://www.youtube.com/watch?v=Rhj6KWFw7AA"
+      },
+      {
+        "title": "Accessing Children of an Element | JavaScript Tutorial in Hindi #32",
+        "videoUrl": "https://www.youtube.com/watch?v=BadZyp7tztw"
+      },
+      {
+        "title": "Parents & Siblings of an Element | JavaScript Tutorial in Hindi #33",
+        "videoUrl": "https://www.youtube.com/watch?v=IMLRMFgrcig"
+      },
+      {
+        "title": "Element only Navigation | JavaScript Tutorial in Hindi #34",
+        "videoUrl": "https://www.youtube.com/watch?v=78VMefnkMcM"
+      },
+      {
+        "title": "Table Navigation | JavaScript Tutorial in Hindi #35",
+        "videoUrl": "https://www.youtube.com/watch?v=4e5L4i-mmxg"
+      },
+      {
+        "title": "Searching the DOM | JavaScript Tutorial in Hindi #36",
+        "videoUrl": "https://www.youtube.com/watch?v=oY036JqESt0"
+      },
+      {
+        "title": "matches, closest and contains | JavaScript Tutorial in Hindi #37",
+        "videoUrl": "https://www.youtube.com/watch?v=CMeeHa7XW3s"
+      },
+      {
+        "title": "JavaScript Chapter 7 - Practice Set | JavaScript Tutorial in Hindi #38",
+        "videoUrl": "https://www.youtube.com/watch?v=i5bX5qNOSoo"
+      },
+      {
+        "title": "JavaScript Exercise 2: Solution & Shoutouts | JavaScript Tutorial in Hindi #39",
+        "videoUrl": "https://www.youtube.com/watch?v=FZ-RyUQCjUY"
+      },
+      {
+        "title": "Exercise 3 - Tell me a Joke | JavaScript Tutorial in Hindi #40",
+        "videoUrl": "https://www.youtube.com/watch?v=-AseOcQPHmo"
+      },
+      {
+        "title": "innerHTML, outerHTML and other properties | JavaScript Tutorial in Hindi #41",
+        "videoUrl": "https://www.youtube.com/watch?v=M8AUk6gDe2c"
+      },
+      {
+        "title": "HTML Attributes and their methods | JavaScript Tutorial in Hindi #42",
+        "videoUrl": "https://www.youtube.com/watch?v=viUbOtj2o_4"
+      },
+      {
+        "title": "HTML Insertion Methods | JavaScript Tutorial in Hindi #43",
+        "videoUrl": "https://www.youtube.com/watch?v=wyAZuYatCOI"
+      },
+      {
+        "title": "insertAdjacentHTML, insertAdjacentElement and insertAdjacentText  | JavaScript Tutorial in Hindi #44",
+        "videoUrl": "https://www.youtube.com/watch?v=zFU2kQJZO5k"
+      },
+      {
+        "title": "Changing HTML Classes using JavaScript: className and classList | JavaScript Tutorial in Hindi #45",
+        "videoUrl": "https://www.youtube.com/watch?v=_YQyVnPI_Og"
+      },
+      {
+        "title": "setInterval and setTimeout in JavaScript | JavaScript Tutorial in Hindi #46",
+        "videoUrl": "https://www.youtube.com/watch?v=Ruq4sEw9h_8"
+      },
+      {
+        "title": "Introduction to Browser Events | JavaScript Tutorial in Hindi #47",
+        "videoUrl": "https://www.youtube.com/watch?v=Y3f_ih-2jGk"
+      },
+      {
+        "title": "Handling Browser Events | JavaScript Tutorial in Hindi #48",
+        "videoUrl": "https://www.youtube.com/watch?v=rFq0HVOdDo4"
+      },
+      {
+        "title": "JavaScript Chapter 8 - Practice Set | JavaScript Tutorial in Hindi #49",
+        "videoUrl": "https://www.youtube.com/watch?v=-6rvoQi2YtI"
+      },
+      {
+        "title": "Exercise 3: Solution & Shoutouts | JavaScript Tutorial in Hindi #50",
+        "videoUrl": "https://www.youtube.com/watch?v=6-6DLlIx4mE"
+      },
+      {
+        "title": "Exercise 4: Clock using JavaScript | JavaScript Tutorial in Hindi #51",
+        "videoUrl": "https://www.youtube.com/watch?v=aEc6AUFkCo8"
+      },
+      {
+        "title": "Introduction to Callbacks | JavaScript Tutorial in Hindi #52",
+        "videoUrl": "https://www.youtube.com/watch?v=IJlGpI6l92U"
+      },
+      {
+        "title": "Callback Hell & Pyramid of Doom | JavaScript Tutorial in Hindi #53",
+        "videoUrl": "https://www.youtube.com/watch?v=fIPJUteOdLc"
+      },
+      {
+        "title": "Introduction to Promises | JavaScript Tutorial in Hindi #54",
+        "videoUrl": "https://www.youtube.com/watch?v=Dadlf6YsTHA"
+      },
+      {
+        "title": "Promise .then() and .catch() | JavaScript Tutorial in Hindi #55",
+        "videoUrl": "https://www.youtube.com/watch?v=Fsv4IEH-4Lw"
+      },
+      {
+        "title": "Promise Chaining .then() calls | JavaScript Tutorial in Hindi #56",
+        "videoUrl": "https://www.youtube.com/watch?v=RPLt3TiH6zg"
+      },
+      {
+        "title": "Attaching Multiple Handlers to a Promise | JavaScript Tutorial in Hindi #57",
+        "videoUrl": "https://www.youtube.com/watch?v=fttMS3hFzEg"
+      },
+      {
+        "title": "The Promise API | JavaScript Tutorial in Hindi #58",
+        "videoUrl": "https://www.youtube.com/watch?v=xJQemfYXEf8"
+      },
+      {
+        "title": "Async/Await in JavaScript | JavaScript Tutorial in Hindi #59",
+        "videoUrl": "https://www.youtube.com/watch?v=bLre6Uf4Op0"
+      },
+      {
+        "title": "Error Handling: try and catch | JavaScript Tutorial in Hindi #60",
+        "videoUrl": "https://www.youtube.com/watch?v=WRNBQCl_cPU"
+      },
+      {
+        "title": "The Error Object & Custom Errors | JavaScript Tutorial in Hindi #61",
+        "videoUrl": "https://www.youtube.com/watch?v=uOQBGKfldIg"
+      },
+      {
+        "title": "The Finally Clause | JavaScript Tutorial in Hindi #62",
+        "videoUrl": "https://www.youtube.com/watch?v=rWCGC2NWjcc"
+      },
+      {
+        "title": "JavaScript Chapter 9 - Practice Set  | JavaScript Tutorial in Hindi #63",
+        "videoUrl": "https://www.youtube.com/watch?v=y1j2FL9d31w"
+      },
+      {
+        "title": "Exercise 4: Solutions & Shoutouts | JavaScript Tutorial in Hindi #64",
+        "videoUrl": "https://www.youtube.com/watch?v=iVodxHfAqd0"
+      },
+      {
+        "title": "Exercise 5: Hackerman | JavaScript Tutorial in Hindi #65",
+        "videoUrl": "https://www.youtube.com/watch?v=Ag4MDWEWHR8"
+      },
+      {
+        "title": "Fetch API | JavaScript Tutorial in Hindi #66",
+        "videoUrl": "https://www.youtube.com/watch?v=Atq7VjVbaA8"
+      },
+      {
+        "title": "Sending POST request with Fetch API | JavaScript Tutorial in Hindi #67",
+        "videoUrl": "https://www.youtube.com/watch?v=57SrCBCxdgc"
+      },
+      {
+        "title": "Cookies in JavaScript| JavaScript Tutorial in Hindi #68",
+        "videoUrl": "https://www.youtube.com/watch?v=sHrwueeeMmY"
+      },
+      {
+        "title": "localStorage & related methods | JavaScript Tutorial in Hindi #69",
+        "videoUrl": "https://www.youtube.com/watch?v=A98SPz5XLwY"
+      },
+      {
+        "title": "sessionStorage & related methods | JavaScript Tutorial in Hindi #70",
+        "videoUrl": "https://www.youtube.com/watch?v=rfSJeox61vA"
+      },
+      {
+        "title": "JavaScript Chapter 10 - Practice Set | JavaScript Tutorial in Hindi #71",
+        "videoUrl": "https://www.youtube.com/watch?v=S09Mm2gJlwI"
+      },
+      {
+        "title": "Exercise 5: Solutions & Shoutouts | JavaScript Tutorial in Hindi #72",
+        "videoUrl": "https://www.youtube.com/watch?v=jmaniHHrg-0"
+      },
+      {
+        "title": "Exercise 6: Todo List | JavaScript Tutorial in Hindi #73",
+        "videoUrl": "https://www.youtube.com/watch?v=hKESY_D2LI0"
+      },
+      {
+        "title": "Introduction to Object Oriented Programming | JavaScript Tutorial in Hindi #74",
+        "videoUrl": "https://www.youtube.com/watch?v=fe6L8bNC_Yw"
+      },
+      {
+        "title": "Protypes and __proto__ in JavaScript | JavaScript Tutorial in Hindi #75",
+        "videoUrl": "https://www.youtube.com/watch?v=eDxrLEQbLv0"
+      },
+      {
+        "title": "Classes and Objects in JavaScript | JavaScript Tutorial in Hindi #76",
+        "videoUrl": "https://www.youtube.com/watch?v=7RpdfkSyJfU"
+      },
+      {
+        "title": "Constructors in JavaScript | JavaScript Tutorial in Hindi #77",
+        "videoUrl": "https://www.youtube.com/watch?v=0E2akQ5E-5Y"
+      },
+      {
+        "title": "Inheritance & extends Keyword in JavaScript | JavaScript Tutorial in Hindi #78",
+        "videoUrl": "https://www.youtube.com/watch?v=9loYq8W8rsg"
+      },
+      {
+        "title": "Constructors in JavaScript | JavaScript Tutorial in Hindi #79",
+        "videoUrl": "https://www.youtube.com/watch?v=M0sXes8zWko"
+      },
+      {
+        "title": "Constructors in JavaScript | JavaScript Tutorial in Hindi #80",
+        "videoUrl": "https://www.youtube.com/watch?v=Rpd4FlhytnE"
+      },
+      {
+        "title": "Static Method in JavaScript | JavaScript Tutorial in Hindi #81",
+        "videoUrl": "https://www.youtube.com/watch?v=__l6ZOPaijs"
+      },
+      {
+        "title": "getters, setters & instanceOf Operator | JavaScript Tutorial in Hindi #82",
+        "videoUrl": "https://www.youtube.com/watch?v=NsF4BrRfOGM"
+      },
+      {
+        "title": "JavaScript Chapter 11 Practice Set | JavaScript Tutorial in Hindi #83",
+        "videoUrl": "https://www.youtube.com/watch?v=-mnNOl5rjPM"
+      },
+      {
+        "title": "Exercise 6 - Solution & Shoutouts | JavaScript Tutorial in Hindi #84",
+        "videoUrl": "https://www.youtube.com/watch?v=93lSwnzCaws"
+      },
+      {
+        "title": "Exercise 7 - Password Generator | JavaScript Tutorial in Hindi #85",
+        "videoUrl": "https://www.youtube.com/watch?v=iLHad0KWJ5g"
+      },
+      {
+        "title": "IIFE - Immediately Invoked Function Expressions | JavaScript Tutorial in Hindi #86",
+        "videoUrl": "https://www.youtube.com/watch?v=oR0yIjzfxQw"
+      },
+      {
+        "title": "Destructuring assignment and Spread Operator | JavaScript Tutorial in Hindi #87",
+        "videoUrl": "https://www.youtube.com/watch?v=_BsE5kmJk6Q"
+      },
+      {
+        "title": "local and global Scope in JavaScript | JavaScript Tutorial in Hindi #88",
+        "videoUrl": "https://www.youtube.com/watch?v=CNk33k5nScg"
+      },
+      {
+        "title": "Hoisting in JavaScript | JavaScript Tutorial in Hindi #89",
+        "videoUrl": "https://www.youtube.com/watch?v=_FmHfOqJ4SY"
+      },
+      {
+        "title": "Closures in JavaScript | JavaScript Tutorial in Hindi #90",
+        "videoUrl": "https://www.youtube.com/watch?v=Ze-JGb4I9zU"
+      },
+      {
+        "title": "Arrow Functions Revisited | JavaScript Tutorial in Hindi #91",
+        "videoUrl": "https://www.youtube.com/watch?v=bJKjtC9MnZ8"
+      },
+      {
+        "title": "JavaScript Chapter 12 - Practice Set | JavaScript Tutorial in Hindi #92",
+        "videoUrl": "https://www.youtube.com/watch?v=bkl5xWLr3fg"
+      },
+      {
+        "title": "Exercise 7 - Password Generator Solution | JavaScript Tutorial in Hindi #93",
+        "videoUrl": "https://www.youtube.com/watch?v=Rz_jCevUqho"
+      },
+      {
+        "title": "Exercise 8 - Alarm Clock | JavaScript Tutorial in Hindi #94",
+        "videoUrl": "https://www.youtube.com/watch?v=vUbuxjF9crY"
+      },
+      {
+        "title": "JavaScript on the Server | JavaScript Tutorial in Hindi #95",
+        "videoUrl": "https://www.youtube.com/watch?v=CG-7dYcozwI"
+      },
+      {
+        "title": "npm and Node.js Packages | JavaScript Tutorial in Hindi #96",
+        "videoUrl": "https://www.youtube.com/watch?v=nSFe1-kpfbQ"
+      },
+      {
+        "title": "Modules in JavaScript | JavaScript Tutorial in Hindi #97",
+        "videoUrl": "https://www.youtube.com/watch?v=wCkHbaLG5cw"
+      },
+      {
+        "title": "Using Express.js to Create a Backend Server | JavaScript Tutorial in Hindi #98",
+        "videoUrl": "https://www.youtube.com/watch?v=w8CkzOmN8PA"
+      },
+      {
+        "title": "Regular Expressions in JavaScript | JavaScript Tutorial in Hindi #99",
+        "videoUrl": "https://www.youtube.com/watch?v=zeMPry3ak6Y"
+      },
+      {
+        "title": "Event Loop in JavaScript | JavaScript Tutorial in Hindi #100",
+        "videoUrl": "https://www.youtube.com/watch?v=vFJbKR6zfCE"
+      },
+      {
+        "title": "Exercise 8 - Solutions and Shoutouts | JavaScript Tutorial in Hindi #101",
+        "videoUrl": "https://www.youtube.com/watch?v=UxUlw4WCmec"
+      },
+      {
+        "title": "Project 1: PDF Merger WebApp Using JavaScript & Bootstrap | JavaScript Tutorial in Hindi #102",
+        "videoUrl": "https://www.youtube.com/watch?v=hNx3WVi1oPU"
+      },
+      {
+        "title": "Project 2: Bulk Rename Desktop App in Node.js | JavaScript Tutorial in Hindi #103",
+        "videoUrl": "https://www.youtube.com/watch?v=2KdqfKRnyV4"
+      }
+    ]
+  },
+  {
+    "title": "Generative AI for beginners",
+    "description": "Explore generative AI through Microsoft Developer’s English video series. Work through 18 focused lessons on language models, prompting and building AI applications, followed by the full-series compilation included in the original playlist.",
+    "category": "Artificial intelligence",
+    "cover": "ai",
+    "price": 0,
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "sourceAuthor": "Microsoft Developer",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLlrxD0HtieHj2nfK54c62lcs3-YSTx3Je",
+    "previewVideoUrl": "https://www.youtube.com/watch?v=lFXQkBvEe0o",
+    "outcomes": [
+      "Understand generative AI and language models",
+      "Practice prompt design and responsible AI",
+      "Explore search, chat and image applications",
+      "Understand retrieval and fine-tuning concepts"
+    ],
+    "lessons": [
+      {
+        "title": "Introduction to Generative AI and LLMs [Pt 1] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=lFXQkBvEe0o"
+      },
+      {
+        "title": "Exploring and comparing different LLMs [Pt 2] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=KIRUeDKscfI"
+      },
+      {
+        "title": "Using Generative AI Responsibly [Pt 3] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=YOp-e1GjZdA"
+      },
+      {
+        "title": "Understanding Prompt Engineering Fundamentals [Pt 4] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=GElCu2kUlRs"
+      },
+      {
+        "title": "Creating Advanced Prompts [Pt 5] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=BAjzkaCdRok"
+      },
+      {
+        "title": "Building Text Generation Applications [Pt 6] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=0Y5Luf5sRQA"
+      },
+      {
+        "title": "Building Chat Applications [Pt 7] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=R9V0ZY1BEQo"
+      },
+      {
+        "title": "Building Search Apps Vector Databases [Pt 8] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=W0-nzXjOjr0"
+      },
+      {
+        "title": "Building Image Generation Applications [Pt 9] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=B5VP0_J7cs8"
+      },
+      {
+        "title": "Building Low Code AI Applications [Pt 10] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=1vzq3Nd8GBA"
+      },
+      {
+        "title": "Integrating External Applications with Function Calling [Pt 11] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=DgUdCLX8qYQ"
+      },
+      {
+        "title": "Designing UX for AI Applications [Pt 12] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=VKbCejSICA8"
+      },
+      {
+        "title": "Securing Your Generative AI Applications [Pt 13] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=m0vXwsx5DNg"
+      },
+      {
+        "title": "The Generative AI Application Lifecycle [Pt 14] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=ewtQY_RJrzs"
+      },
+      {
+        "title": "Retrieval Augmented Generation (RAG) and Vector Databases [Pt 15] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=4l8zhHUBeyI"
+      },
+      {
+        "title": "Open Source Models and Hugging Face [Pt 16] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=CuICgfuHFSg"
+      },
+      {
+        "title": "AI Agents [Pt 17] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=yAXVW-lUINc"
+      },
+      {
+        "title": "Fine-Tuning LLMs [Pt 18] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=6UAwhL9Q-TQ"
+      },
+      {
+        "title": "Full Series [Part 1-18] | Generative AI for Beginners",
+        "videoUrl": "https://www.youtube.com/watch?v=k7HaeJs-N-o"
+      }
+    ]
+  }
+]
