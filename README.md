@@ -2,7 +2,7 @@
 
 **Final Project:** Hunarmand Punjab — MERN Stack Web Development, Batch 3  
 **Live application:** https://learnhub-frontend-alpha.vercel.app/  
-**GitHub repository:** [ADD YOUR REPOSITORY URL]
+**GitHub repository:** https://github.com/fawad7998/LearnHub
 
 ## Overview
 
@@ -108,13 +108,5 @@ The accompanying PDF report should document both assignment questions with scree
 ## Deployment
 
 - **Frontend:** https://learnhub-frontend-alpha.vercel.app/
-- **Backend/API:** [ADD BACKEND DEPLOYMENT URL, IF PUBLIC]
+- **Backend/API:** https://learn-hub-sooty.vercel.app/
 - **GitHub:** [ADD YOUR REPOSITORY URL]
-
-## Security and submission notes
-
-Never upload `.env`, `account-access.txt`, database connection strings, JWT secrets, API keys, or real credentials to GitHub or the final ZIP. Include `.env.example` templates only. Exclude `node_modules`, build outputs and `.git` metadata from the submission ZIP. Do not delete `package.json` or lockfiles; they are needed for reproducible installation.
-
-## Further documentation
-
-For detailed configuration and operational notes, see `frontend/README.md`, `backend/README.md` and `backend/UPDATE_GUIDE.md`.
